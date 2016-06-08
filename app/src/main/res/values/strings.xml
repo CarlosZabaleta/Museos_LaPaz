@@ -1,0 +1,278 @@
+<resources>
+    <string name="app_name">Museos La Paz</string>
+
+    <string name="titulo">Museos de La Paz</string>
+
+    <string-array name="descripcion">
+        <item name="0">Exposición permanente
+Salas:
+Línea del tiempo
+Republiquetas
+Unidad escolta presidencial
+Galería de comandantes
+Confederación Perú-Bolivia
+Guerra del Pacífica
+Cnel.. Murguía
+Guerra del Acre
+Guerra del Chaco
+Mártires de la democracia"</item>
+        <item name="1">Instalación Visual Vania de Lucca
+Exposición cuadro "La Musa</item>
+        <item name="2">"Sala de Exposición Maria Esther Ballivián
+Exposición colectiva "Alternarte" de los artistas Israel Isaac Malqui, Silke Cruz, Raul Choque
+
+Sala de Exposición Antonio Gonzáles Bravo
+Exposición "Variedades" del artista Freddy Carvajal
+
+Sala de Exposición Arturo Borda.
+Exposición "Alegorías" de los artistas Mauricio Salinas, Vieto Valda M. y Bernardo López </item>
+        <item name="3">"Exposición "Espíritu de los Andes" del Artista Fernando Montes Peñaranda
+
+Exposición retrospectiva de obras ganadoras del Concurso el "Valor del Dibujo de Fernando Montes Peñaranda"
+
+Exposición Colectiva "5to Encuentro el Arte y el Vino"
+
+Exposición Retrospectiva del artista "Freddy Escobar"
+
+Exposición de artesanía en sus diferentes especialidades cuero, textil, joyas a cargo de la AAPAP(Asociacion de Artesanos Productores de Arte Pluricultural)-Sala Vicenta Juaristi Eguino</item>
+        <item name="4">"Exposición de arte Colonial
+Exposición de la "Academia de Bellas Artes"
+Exposición Histórica de la Guerra del Chaco por la Fundación Cultural Héroes Del Chaco"</item>
+
+        <item name="5">Exposición especial y visitas guiadas</item>
+        <item name="6">"Exposición del Fotógrafo boliviano Ivar Mendez "DOS CULTURAS UN MISMO IDIOMA"
+        Exposición "EVOLUCION DEL TRAJE DE LA CHOLA PACEÑA"
+Exposición de Dioramas históricos costumbristas"</item>
+        <item name="7">Exposición Fotográfica “Recuerdos de Acero” de Tito y Henry Ponce</item>
+        <item name="8">Exposición permanente de uniformes y armas planta alta y planta baja documentos y mapas de la guerra del pacifico de 1879</item>
+        <item name="9">Exposición permanente de piezas prehispánicas de diferentes culturas y en especialidades de metales preciosos líticos y cerámicos.</item>
+        <item name="10">Exposiciones de Platería Legado Gurnsfeld, sala de muebles del sigloXVIII, cristalería, platería, sala de la conspiración, pinacoteca, colección de retablos y la alcoba de don Pedro Domingo Murillo</item>
+        <item name="11">Exhibición y venta de artesanías en diferentes especialidades</item>
+        <item name="12">Exhibición y venta de artesanías en diferentes especialidades</item>
+        <item name="13">Exposición especial</item>
+        <item name="14">Exposición y venta de productos artesanales en materiales naturales y elaborados por etnias del Oriente Cruceño y del Chaco Tarijeño de Bolivia.</item>
+        <item name="15">Exposición de obras de arte de los artistas Edgar Arandia, Guido Koeller, entre otros.</item>
+        <item name="16">Exposición de Pinturas al Oleo "BOCARTE" del artista Mario Ramírez</item>
+        <item name="17">Exposición Permanente de Acuarelas y Lienzos del artista Alberto Medina</item>
+        <item name="18">"Exposición reciente de cuadros originales de Roberto Mamani Mamani
+
+Exposición de cuadros originales de Ricardo Perez Alcalá
+
+Exposición de cuadros de alumnos sobresalientes de la Fundación Mamani Mamani"</item>
+        <item name="19">Exposición de la Biblioteca “Gastón Velasco” (material bibliográfico, hemerográfico y fotográfico), con información histórica sobre el tema marítimo.</item>
+
+        <item name="20">Exposiciones:
+1. Marcelo Rodríguez (BERTON-ARTISFACTUM) Pirograbado y oleo.
+2. Wendy Arteaga (MELANCOLYART) grabados, guache y dibujos.
+3. José Antonio (CUERNO) renacer. ILUSTRACION Y DIBUJO
+4. Colectivo SENDA DEL JAGUAR- pintura, escultura, dibujo y grabado.
+5. NELO dibujo y pintura
+6. Emilia Ramos (expo CAMINANTES)- pintura
+7. Jeaneth Calatayud – fotografía (LUZ)
+8. Delia Yujra Chura(AMANECER-WILLXTA) – fotografía(ESTRELLA FUGAS)
+9. Patricia noriega – fotografía (PAISAJES PACEÑOS)
+10. Samuel Peña “SamU” – fotografía (TIERRA)
+11. Dennis Espinoza – acurelero di un diripente.
+"</item>
+        <item name="21">Cadena productiva del tejido
+
+Arte plumario. Culturas y diversidad
+
+Cerámica. Continuidad, cambio y persistencia
+
+Caminantes en el Tiempo (sala introductoria)
+
+Numismática boliviana
+
+Máscara. Los diversos Rostros del Alma
+
+Muñequería del MUSEF (Sala Núñez y Patio Siglo XX)
+
+Muestra Fotográfica de la biodiversidad del Norte de La Paz (Sala Unkus)
+
+Exposición de Wayna Tambo-Red de la diversidad "Tejiendo lo urbano" (Sala Tejidos).
+
+Exposición en homenaje al día de las diversidades TLG (Pasillo del Tiempo)</item>
+        <item name="22">Salón de Honor, Pinturas all óleo y mobiliario antiguo de principios de siglo XX.
+
+Obras pictóricas referentes a la Guerra del pacífico.
+
+Exhibición del mural de la Fuerzas Armadas.
+
+Exhibición de armamento de la Guerra del Pacifico, Guerra del Acre y Guerra del Chaco, uniformes militares nacionales, extranjeros y otros.</item>
+        <item name="23">Galeria de Arte
+Exposición de pintura de Iván Castellón.</item>
+        <item name="24">Sala histórica y de armas-fototeca-Pinacoteca y sala de uniformes-sala criminalística-biblioteca</item>
+        <item name="25">Trabajos de restauración en vivo, con los diferentes talleres de pintura de caballete, forja, etc.</item>
+        <item name="26">"Volver a Empezar" de Freddy Blanco y Narda Villegas artistas paceños</item>
+        <item name="27">"sala 1 Instrumentos náuticos y marina Mercante.
+Sala 2. Modelos Náuticos y Biblioteca
+Sala 3 Guerra de Pacífico.
+Sala 4 Sala de Uniformes y Mapoteca.
+Sala 5 Guerra del chaco."</item>
+        <item name="28">Exposición "Memorias de Carlos Palenque Avilés"</item>
+        <item name="29">"Exposición del curso de Arte Joven
+
+Expresarte 2014, en las salas de
+exposiciones del CCELP.
+
+Exposición Hacer [de] nuevo del fotógrafo Diego Gullco, en el aula del CCELP.
+
+Exposición El FITAZ en fotos, del fotógrafo Tony Suarez en el patio del CCELP."</item>
+
+        <item name="30">"Exposición del curso de Arte Joven
+
+Expresarte 2014, en las salas de
+exposiciones del CCELP.
+
+Exposición Hacer [de] nuevo del fotógrafo Diego Gullco, en el aula del CCELP.
+
+Exposición El FITAZ en fotos, del fotógrafo Tony Suarez en el patio del CCELP."</item>
+        <item name="31">Exposición de artesanía en Textil, cueros y joyas</item>
+        <item name="32">"Exposición del patrimonio histórico, filatélico y cultural del correo desde 1930 a la fecha.
+
+Exposición de sellos postales gestiones 2012 y 2013
+
+Muestra filatélica del Papa Juan Pablo II"</item>
+        <item name="33">Exposición colectiva de arte contemporáneo boliviano (plata baja)</item>
+        <item name="34">Exposición de Arte Plástico de la Artista Silvia Peñaloza y otros artistas.</item>
+        <item name="35">Exposición de la Cultura Japonesa
+
+Exposición del centro histórico de la inmigración japonesa a Bolivia.
+(Planta baja y 3er piso)</item>
+        <item name="36">Sesión de planetario video y
+fotografías del universo (hall del planetario)</item>
+    </string-array>
+
+    <string-array name="lugar">
+        <item name="0">Cuartel Colorados de Bolivia, Regimiento I. C. Calama, zona norte</item>
+        <item name="1">C. Uruguay Nº 493, Cerca a Terminal de Buses</item>
+        <item name="2">Av. Mariscal Santa Cruz, esq. C. Potosí</item>
+        <item name="3">Plaza Alonso de Mendoza</item>
+        <item name="4">Plaza. San Francisco Nº 503</item>
+
+        <item name="5">C. Jenaro Sanjines entre C. Indaburo e Ingavi</item>
+        <item name="6">Plaza Riosinho esq. C. Jaén</item>
+        <item name="7">C. Jaén esq. Sucre S/n</item>
+        <item name="8">C. Jaén Nº789</item>
+        <item name="9">C. Jaén Nº777</item>
+        <item name="10">C. Jaén Nº790</item>
+        <item name="11">C. Jaén Nº734</item>
+        <item name="12">C. Jaén Nº 747</item>
+        <item name="13">C. Jaén Nº 722</item>
+        <item name="14">C. Jaén Nº 746</item>
+        <item name="15">C. Jaén Nº 705</item>
+        <item name="16">C. Indaburo, esquina C. Jaén s/n</item>
+        <item name="17">C. Indaburo, esq. C. Jaén Nº 705</item>
+        <item name="18">C. Jaén Nº 710 Esquina C. Indaburo</item>
+        <item name="19">Plaza Wenceslao Monrroy</item>
+
+        <item name="20">C. Jenaro Sanjinés N° 541, Pasaje Kuljis, puerta 9, 1er piso. </item>
+        <item name="21">C. Ingavi N° 916</item>
+        <item name="22">C. Ballivian, Frente Plaza Murillo, ex Cine Paris</item>
+        <item name="23">Esq. C. Ayacucho y Potosí</item>
+        <item name="24">C. Colón Nº 425 Y Plaza Obispo Bosque</item>
+        <item name="25">C. Colón</item>
+        <item name="26">C. Colón, Palacio Consistorial</item>
+        <item name="27">C. Obispo Cárdenas Esq. Bueno N°1499</item>
+        <item name="28">C. Juan de la Riva N° 1527</item>
+        <item name="29">Av. Eliodoro Camacho, entre C. Loayza y Bueno. Nº1484</item>
+
+        <item name="30">Biblioteca Municipal Andres de Santa Cruz, Av. 16 de Julio</item>
+        <item name="31">C. Murillo, entre C. Oruro y Almirante Grau</item>
+        <item name="32">v. Mariscal. Sta. Cruz- Palacio de Comunicaciones</item>
+        <item name="33">Av. 16 de Julio Nº 1698</item>
+        <item name="34">C. México Nº 1554. Edificio Chuquiago</item>
+        <item name="35">C. Batallón Colorados Nº 98 esq. C. Federico Suazo</item>
+        <item name="36">C. Federico Suazo Nº 1976</item>
+    </string-array>
+
+    <string-array name="tituloLugar">
+        <item name="0">Museo Militar Colorados de Bolivia</item>
+        <item name="1">Bunker Espacio Alternativo</item>
+        <item name="2">Casa de la Cultura "Franz Tamayo"</item>
+        <item name="3">Museo Tambo Quirquincho</item>
+        <item name="4">Centro Cultural y Museo de San Francisco</item>
+
+        <item name="5">Teatro Municipal "Alberto Saavedra Pérez"</item>
+        <item name="6">Museo Costumbrista "Juan de Vargas"	</item>
+        <item name="7">Café del Museo Costumbrista "Juan de Vargas</item>
+        <item name="8">Museo Litoral Boliviano</item>
+        <item name="9">Museo de Metales Preciosos Precolombinos</item>
+        <item name="10">Museo Casa de Murillo</item>
+        <item name="11">"Alma Diseño
+Art Shop"</item>
+        <item name="12">Tacto Andino
+Art Shop</item>
+        <item name="13">Galería-Etno Café</item>
+        <item name="14">Green Hands</item>
+        <item name="15">Galería JUWITAKI
+ART SHOP</item>
+        <item name="16">Bocaisapo</item>
+        <item name="17">Galería de Arte MEDINART</item>
+        <item name="18">Centro de Artes "Mamani Mamani"</item>
+        <item name="19">Biblioteca Liber Forty</item>
+
+        <item name="20">Centro Cultural "El Ombligo del Mundo"</item>
+        <item name="21">Museo Nacional de Etnografía Y Folklore</item>
+        <item name="22">Academia Boliviana de Historia Militar</item>
+        <item name="23">Sala de Exposición Palacio Chico</item>
+        <item name="24">Archivo Histórico y Museo Policial</item>
+        <item name="25">Escuela Taller</item>
+        <item name="26">Sala de Exposición Cecilio Guzmán de Rojas</item>
+        <item name="27">Museo Histórico Naval y Héroes de la Guerra del Chaco</item>
+        <item name="28">Radio difusoras Populares S.A</item>
+        <item name="29">Centro Cultural de España en La Paz</item>
+
+        <item name="30">Auditorio Nicolas Fernandez Naranjo</item>
+        <item name="31">Centro de Promoción Económica “Pedro Domingo Murillo” (CPEM)</item>
+        <item name="32">Museo Filatélico "Jose Joaquín Lemoine"</item>
+        <item name="33">Museo de Arte Contemporáneo Plaza</item>
+        <item name="34">Expo Arcana</item>
+        <item name="35">Centro Histórico de la Inmigración Japonesa a Bolivia</item>
+        <item name="36">Planetario Max Schreier Física UMSA</item>
+    </string-array>
+
+    <string-array name="times">
+        <item name="0">17:00 a 00:00</item>
+        <item name="1">19:00 a 00:00</item>
+        <item name="2">15:00 a 00:00</item>
+        <item name="3">15:00 a 00:00</item>
+        <item name="4">17:00 a 00:00</item>
+
+        <item name="5">17:00 a 00:00</item>
+        <item name="6">15:00 a 00:00</item>
+        <item name="7">17:00 a 00:00</item>
+        <item name="8">15:00 a 00:00</item>
+        <item name="9">15:00 a 00:00</item>
+        <item name="10">15:00 a 00:00</item>
+        <item name="11">17:00 a 00:00</item>
+        <item name="12">17:00 a 00:00</item>
+        <item name="13">17:00 a 00:00</item>
+        <item name="14">17:00 a 00:00</item>
+        <item name="15">17:00 a 00:00</item>
+        <item name="16">17:00 a 02:00</item>
+        <item name="17">17:00 a 00:00</item>
+        <item name="18">17:00 a 00:00</item>
+        <item name="19">17:00 a 00:00</item>
+
+        <item name="20">17:00 a 00:30</item>
+        <item name="21">17:00 a 00:00</item>
+        <item name="22">17:00 a 22:00</item>
+        <item name="23">17:00 a 22:00</item>
+        <item name="24">17:00 a 00:15</item>
+        <item name="25">17:00 a 00:00</item>
+        <item name="26">17:00 a 00:00</item>
+        <item name="27">17:00 a 00:00</item>
+        <item name="28">17:00 a 00:00</item>
+        <item name="29">15:00 a 00:00</item>
+
+        <item name="30">08:00 a 00:00</item>
+        <item name="31">17:00 a 00:00</item>
+        <item name="32">17:00 a 00:00</item>
+        <item name="33">09:00 a 22:00</item>
+        <item name="34">17:00 a 00:00</item>
+        <item name="35">17:00 a 00:00</item>
+        <item name="36">17:00 a 00:00</item>
+    </string-array>
+</resources>

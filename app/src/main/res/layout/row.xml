@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff"
+    android:elevation="5dp"
+    android:orientation="vertical"
+    android:paddingBottom="2dp"
+    android:paddingTop="1dp"
+    tools:context="com.example.android.museoslapaz.MainActivity">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:elevation="10dp"
+        card_view:cardBackgroundColor="#ffffff"
+        card_view:cardCornerRadius="2dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:src="@drawable/a" />
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/desc"
+                android:background="#AA000000"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="16dp"
+                android:text="San Francisco"
+                android:textColor="#ffffffff"
+                android:textSize="24dp" />
+
+            <TextView
+                android:id="@+id/desc"
+                android:layout_width="match_parent"
+                android:layout_height="22dp"
+                android:layout_above="@+id/lugar"
+                android:background="#AA000000"
+                android:paddingBottom="4dp"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:text="Descripcion"
+                android:textColor="#ffffffff"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/hora"
+                android:layout_width="wrap_content"
+                android:layout_height="33dp"
+                android:layout_alignBottom="@id/imageView"
+                android:layout_alignParentLeft="true"
+                android:background="#AA000000"
+                android:paddingBottom="8dp"
+                android:paddingLeft="16dp"
+                android:paddingRight="8dp"
+                android:paddingTop="4dp"
+                android:text="HORA"
+                android:textColor="#ffffffff"
+                android:textAllCaps="true"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/lugar"
+                android:layout_width="match_parent"
+                android:layout_height="33dp"
+                android:layout_alignParentBottom="true"
+                android:layout_toEndOf="@+id/hora"
+                android:layout_toRightOf="@+id/hora"
+                android:background="#AA000000"
+                android:paddingBottom="8dp"
+                android:paddingLeft="8dp"
+                android:textAllCaps="true"
+                android:paddingRight="8dp"
+                android:paddingTop="4dp"
+                android:text="LUGAR"
+                android:textColor="#ffffffff"
+                android:textSize="14dp" />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>
+
